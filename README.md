@@ -1,4 +1,4 @@
-I am a PhD student at the University of Bonn. My research focuses on the intersection of macroeconomics and finance. Within my projects, I solve heterogeneous agent models with varying degrees of heterogeneity—globally, in state-space, in sequence space, and using machine learning techniques. I maintain a repository with replication files for Krusell and Smith and am interested in advancing computational methods for macroeconomic modeling.
+I am a PhD student at the University of Bonn. My research focuses on the intersection of macroeconomics and finance. Within my projects, I solve heterogeneous agent models with varying degrees of heterogeneity—globally, in state-space, in sequence space, and using machine learning techniques.
 
 If you want to have a chat about the best ways to solve heterogeneous agent models, drop me an email at fabio(dot)stohler(at)uni-bonn(dot)de, visit my [personal website](https://fabio-stohler.github.io/), or connect with me on [LinkedIn](https://de.linkedin.com/in/fabiostohler).
 
